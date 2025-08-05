@@ -203,7 +203,7 @@ This project is for educational and research purposes.
 
 ## 👤 Author
 
-[By Team ShadowHart](https://github.com/PrinceYadav001)
+[By Team ShadowHart](https://github.com/LuckyBaliyan)
 
 ---
 
